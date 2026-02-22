@@ -2,29 +2,30 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LemmyWorld
 LessWrong
 LushStories
+Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
