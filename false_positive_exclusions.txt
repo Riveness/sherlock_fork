@@ -1,6 +1,8 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
+Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -23,7 +25,8 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
