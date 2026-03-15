@@ -1,4 +1,5 @@
 APClips
+Archive of Our Own
 Archive.org
 Codolio
 GNOME VCS
@@ -16,6 +17,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -24,5 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
 phpRU
 svidbook
