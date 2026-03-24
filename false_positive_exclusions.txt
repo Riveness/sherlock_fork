@@ -1,15 +1,13 @@
 APClips
 Archive.org
-Carbonmade
+Coders Rank
 Codolio
-DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -19,17 +17,15 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
+nnRU
 opennet
 phpRU
 svidbook
