@@ -1,7 +1,7 @@
 APClips
 Archive.org
-Coders Rank
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -10,7 +10,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -21,12 +20,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
