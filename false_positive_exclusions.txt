@@ -1,8 +1,10 @@
+7Cups
 APClips
 Archive.org
 Codolio
 DeviantArt
-DigitalSpy
+Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
@@ -27,7 +29,6 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
