@@ -24,8 +24,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -34,3 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
