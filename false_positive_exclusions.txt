@@ -11,8 +11,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitBook
+GitHub
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 Rarible
@@ -25,10 +28,12 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
