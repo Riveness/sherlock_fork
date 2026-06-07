@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,13 +12,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
-GitHub
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,12 +27,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
