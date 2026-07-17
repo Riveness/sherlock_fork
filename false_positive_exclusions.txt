@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,14 +13,14 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
+LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
