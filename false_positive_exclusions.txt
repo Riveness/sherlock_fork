@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
@@ -16,8 +15,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LinkedIn
+LushStories
 Odysee
+Outgress
 PCGamer
 Patched
 Pornhub
@@ -44,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
