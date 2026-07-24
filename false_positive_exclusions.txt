@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,8 +17,11 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +35,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -42,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
