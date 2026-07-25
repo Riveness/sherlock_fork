@@ -12,12 +12,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -35,6 +36,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
