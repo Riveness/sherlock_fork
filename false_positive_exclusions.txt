@@ -16,9 +16,7 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -31,10 +29,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
