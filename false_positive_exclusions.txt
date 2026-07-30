@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -20,10 +20,10 @@ Instapaper
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,7 +45,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
