@@ -1,12 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -24,6 +23,7 @@ LinkedIn
 LushStories
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -31,6 +31,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -39,7 +40,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
