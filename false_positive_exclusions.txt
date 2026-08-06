@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -32,14 +31,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -50,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
