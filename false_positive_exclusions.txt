@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -23,9 +22,9 @@ Instapaper
 LinkedIn
 LushStories
 Odysee
+Outgress
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -39,6 +38,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
