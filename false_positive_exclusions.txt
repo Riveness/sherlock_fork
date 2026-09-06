@@ -13,7 +13,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -27,6 +26,7 @@ Odysee
 OurDJTalk
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -36,6 +36,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
