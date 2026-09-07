@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -21,11 +20,12 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -36,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
@@ -54,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
