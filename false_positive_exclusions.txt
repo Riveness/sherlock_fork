@@ -1,14 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
+CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,14 +21,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,8 +45,8 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
