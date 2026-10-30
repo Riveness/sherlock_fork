@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -21,6 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
@@ -36,9 +38,7 @@ SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
@@ -47,7 +47,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
