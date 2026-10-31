@@ -12,6 +12,7 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -22,8 +23,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LiveJournal
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -44,7 +44,6 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
