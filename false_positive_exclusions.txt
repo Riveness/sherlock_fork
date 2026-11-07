@@ -4,10 +4,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -36,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
