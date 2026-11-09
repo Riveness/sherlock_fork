@@ -4,8 +4,10 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,6 +23,7 @@ Instapaper
 Linktree
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -32,11 +35,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -45,7 +46,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
