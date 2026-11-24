@@ -16,7 +16,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -27,6 +26,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 TryHackMe
 Velomania
